@@ -1,0 +1,10 @@
+.btns-container{
+    width: 40%;
+    height: 20%;
+    background-color: rgb(255 122 67);
+    border-radius: 26px;
+}
+p{
+    font-size: 1.5rem;
+    margin: 1rem;
+}
