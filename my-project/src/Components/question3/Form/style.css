@@ -1,0 +1,52 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, #ff3690, #fb6dba, #f497db, #eebaf1, #eedafd, #f5dffc, #fae4fc, #ffe9fc, #ffd6e9, #ffc3c7, #ffb79a, #fcb46a);
+    width: 100vw;
+    height: 100vh;
+}
+
+.form{
+    width: 30%;
+    height: 55%;
+    background-color: rgb(252, 255, 255);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+
+}
+a{
+    color: rgb(55, 173, 252);
+}
+#btn{
+    width: 76%;
+    height: 11%;
+    border-radius: 10px;
+    background-color: rgb(48, 158, 241);
+    border: none;
+    color: white;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+.row-one{
+    margin-top: 1rem;
+}
+.row-two{
+    display: flex;
+    width: 76%;
+    gap: 3px;
+
+}
+.row-three{
+    width: 78%;
+}
+.arrow{
+    position: absolute;
+    top: 64.5%;
+    left: 60%;
+    color: white;
+    font-size: 1.5rem;
+}
