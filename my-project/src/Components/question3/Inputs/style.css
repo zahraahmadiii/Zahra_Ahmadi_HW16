@@ -3,4 +3,12 @@ border-radius: 10px;
 border: 1px solid rgb(188, 188, 188);
 height: 2.5rem;
 width: 75%;
+color: rgb(124, 124, 124);
+background-color: rgb(243, 243, 243);
+padding-left: 13px;
+outline: none;
+
+}
+input:focus {
+    background-color: rgb(255, 255, 255);
 }
